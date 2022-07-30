@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB7867e6001F3f666FBC5095480C9cB7Fb4e0910B",
+  "SCAN_LINK": "https://polygonscan.com/address/0xB7867e6001F3f666FBC5095480C9cB7Fb4e0910B",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "PInkyLinky",
+  "SYMBOL": "PINK",
+  "MAX_SUPPLY": 48,
+  "WEI_COST": 10000000000000000,
+  "DISPLAY_COST": 0.01,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opensea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/pinkylinky",
+  "SHOW_BACKGROUND": true
+}
